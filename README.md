@@ -1,0 +1,1 @@
+# django-modeltranslation_TR -> Django çoklu dilli web siteleri oluşturmak için hazırlanmış Türkçe döküman örneğidir. Ben eğitmen değilim dolayısıyla bir formasyon eğitimim olmadığı için dilimin döndüğünce anlattım. Sorularınız olursa onder.yilmz@gmail.com adresinden bana ulaşabilirsiniz.
